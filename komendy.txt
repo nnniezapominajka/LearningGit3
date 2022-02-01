@@ -1,0 +1,4 @@
+html-valitade
+ma wyświetlać listę błędów we wszystkich plikach.html
+
+KOMENDA: node_modules/.bin/html-validate *.html
